@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Nro
 
-I’m a curious guy who enjoys **JavaScript** and **Python**, they allow me to create fun stuff.
+I’m a curious guy who enjoys JavaScript and Python, they allow me to create fun stuff.
 
 ## 🚀 About Me
 - Learning and improving my JavaScript & Python skills
